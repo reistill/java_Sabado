@@ -16,10 +16,12 @@ public class mentols {
       //printando o que ele digitou
       System.out.println("Isso que você digitou: " + nome);
 
-      //
+      //percorrendo a variável nome
       for (int i = 0; i < nome.length(); i++) {
+         //pegando o caráctere no index i do for
          System.out.println(nome.charAt(i));
       }
+      //fechando o nosso teclado
       teclado.close();
    } 
 }
