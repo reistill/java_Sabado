@@ -9,6 +9,7 @@ public class mongos {
         //
         for (int i = 0; i < v.length; i++) {
             System.out.println("Digite o número ["+(i+1)+"]:");
+            //retornando os INTs digitados
             v[i] = teclado.nextInt();
         }
         teclado.close();
