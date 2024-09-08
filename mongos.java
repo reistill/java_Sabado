@@ -6,7 +6,7 @@ public class mongos {
         Scanner teclado = new Scanner(System.in);
         //vetor ou lista
         int v[] = new int[3];
-        //
+        
         for (int i = 0; i < v.length; i++) {
             System.out.println("Digite o número ["+(i+1)+"]:");
             //retornando os INTs digitados
