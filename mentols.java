@@ -1,4 +1,4 @@
-//Lembrem que uma String, já é um Array...
+//Lembrem que uma String, já é um Array... (prof Edwin)
 
 import java.util.Scanner;
 
